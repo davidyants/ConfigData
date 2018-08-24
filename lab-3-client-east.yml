@@ -1,0 +1,5 @@
+# config file fot lab-3-client east
+---
+spring:
+  profiles: east
+lucky-word: Rabbit's Foot

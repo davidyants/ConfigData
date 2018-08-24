@@ -1,0 +1,5 @@
+# config file for lab-3-client west
+---
+spring:
+  profiles: west
+lucky-word: Serendipity

@@ -1,0 +1,5 @@
+# config file for lab-3-client default
+---
+spring:
+  profiles: default
+lucky-word: Irish
