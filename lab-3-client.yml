@@ -1,0 +1,15 @@
+# config file for lab-3-client
+---
+spring:
+  profiles: default
+lucky-word: Irish
+
+---
+spring:
+  profiles: east
+lucky-word: Rabbit's Foot
+
+---
+spring:
+  profiles:
+lucky-word: Serendipity
