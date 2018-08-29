@@ -1,7 +1,7 @@
 ---
-secretwordConfig:
+secretword-config:
   luckyWord: Serendipity
-  preamble: The lucky word is
+  preamble: Is the password
   
 ---
 wordConfig:
