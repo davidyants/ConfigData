@@ -2,3 +2,7 @@
 wordConfig:
   luckyWord: Rabbit’s Foot
   preamble: My lucky word is
+  
+secretConfig:
+  luckyWord: Irish
+  preamble: The secret word is
