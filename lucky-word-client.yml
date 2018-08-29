@@ -1,0 +1,9 @@
+---
+word-config:
+  luckyWord: Irish
+  preamble: The lucky word is
+  
+---
+wordConfig:
+  luckyWord: Rabbit’s Foot
+  preamble: My lucky word is
