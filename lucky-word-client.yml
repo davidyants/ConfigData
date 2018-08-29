@@ -1,6 +1,6 @@
 ---
-word-config:
-  luckyWord: Irish
+secretwordConfig:
+  luckyWord: Serendipity
   preamble: The lucky word is
   
 ---
