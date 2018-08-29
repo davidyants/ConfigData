@@ -1,8 +1,8 @@
 ---
 wordConfig:
   luckyWord: Rabbit’s Foot
-  preamble: Is my lucky word
+  preamble: Is Eugene's lucky word
   
 secretConfig:
-  luckyWord: Blue Tit
+  luckyWord: Kingfisher
   preamble: Is new secret word
