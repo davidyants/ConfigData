@@ -1,9 +1,4 @@
 ---
-secretword-config:
-  luckyWord: Serendipity
-  preamble: Is the password
-  
----
 wordConfig:
   luckyWord: Rabbit’s Foot
   preamble: My lucky word is
